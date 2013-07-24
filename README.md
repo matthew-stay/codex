@@ -1,4 +1,2 @@
-codex
-=====
-
+* Scryer
 A personal syllabus
